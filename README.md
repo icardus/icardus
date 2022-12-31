@@ -1,6 +1,6 @@
 # Hello, I'm Ignasi 👋🏻
 
-I'm a front-end web developer based in Barcelona. I focus on the basics: .html, .css, .js
+I'm a junior front-end web developer based in Barcelona. I focus on the basics: .html, .css, .js
 
 ## Find me around the web 🌎: 
 - Currently working at <a href="https://www.capdevilajoiers.com">Capdevila Joiers i Argenters</a> and <a href="https://www.banjosites.com">Banjosites</a>
